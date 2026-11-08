@@ -36,6 +36,7 @@ TP2_GitHub_Partie1/
 
 - **SDM Hocine** – Repository owner
 - **Yasser Mohamed** – Contributor
+- **Bey fatima** -  Contributor 
 
 ## 🚀 Git Commands Practiced
 
